@@ -1,2 +1,1 @@
-# python-program
-basic program of python
+print("hello world")
